@@ -8,7 +8,6 @@ from PIL import Image
 from io import BytesIO
 import math
 
-api_key = 'AIzaSyAM-dtPLIdddJwgcC8UXMRzSeVzsXqV8Z0'
 
 
 def getImage(lat,long,zoom,api,keypoints,projW,projH):
